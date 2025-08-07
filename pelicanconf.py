@@ -6,6 +6,6 @@ PATH = 'content'
 TIMEZONE = 'Asia/Kolkata'
 DEFAULT_LANG = 'en'
 
-THEME = 'notmyidea'  # Default theme
-DEFAULT_PAGINATION = 10
+THEME = ' '
+DEFAULT_PAGINATION = 1
 

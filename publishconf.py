@@ -1,5 +1,5 @@
 from pelicanconf import *
 
-SITEURL = 'https://rohitkumar902.github.io/website-demo/'
+SITEURL = ' '
 RELATIVE_URLS = False
 

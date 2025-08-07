@@ -1,6 +1,6 @@
 AUTHOR = 'Rohit'
 SITENAME = 'Testing Pelican'
-SITEURL = 'https://rohitkumar902.github.io/testing-pelican/'
+SITEURL = ' '
 
 PATH = 'content'
 TIMEZONE = 'Asia/Kolkata'

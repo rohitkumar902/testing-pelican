@@ -6,6 +6,6 @@ PATH = 'content'
 TIMEZONE = 'Asia/Kolkata'
 DEFAULT_LANG = 'en'
 
-THEME = ' '
+THEME = 'themes/future-imperfect'
 DEFAULT_PAGINATION = 1
 
